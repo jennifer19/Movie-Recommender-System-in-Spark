@@ -1,6 +1,4 @@
 Author: Prakhar Dogra
-G Number: G01009586
-CS 657 Assignment 4
 
 The following README gives details about the files contained in this folder:
 
